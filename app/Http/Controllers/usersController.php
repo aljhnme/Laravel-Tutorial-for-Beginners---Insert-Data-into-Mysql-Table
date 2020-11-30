@@ -23,7 +23,7 @@ class usersController extends Controller
      */
     public function create()
     {
-      return view('name_users.create');
+      return view('user.create');
     }
 
     /**
