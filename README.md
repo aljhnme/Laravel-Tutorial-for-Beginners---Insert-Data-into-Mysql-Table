@@ -1,0 +1,1 @@
+# Laravel-Tutorial-for-Beginners---Insert-Data-into-Mysql-Table
